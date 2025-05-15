@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="HTML parser test page">
+    <title>Meta and Selfclosing Tags</title>
+</head>
+<body>
+    <div>
+        <p>Some content.</p>
+        <img src="example.jpg" alt="Image example">
+    </div>
+</body>
+</html>

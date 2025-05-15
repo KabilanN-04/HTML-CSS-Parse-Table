@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Example</title>
+</head>
+<body>
+    <img src="image.jpg" alt="A sample image">
+    <p>This is a paragraph with an image above</p>
+    <!-- This is a comment -->
+</body>
+</html>

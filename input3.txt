@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text and List Together</title>
+</head>
+<body>
+    <ul>
+        <li>Text before sub list
+            <ul>
+                <li>Nested Item 1</li>
+                <li>Nested Item 2</li>
+            </ul>
+        </li>
+        <li>Another item</li>
+    </ul>
+</body>
+</html>
